@@ -1,7 +1,7 @@
 mqtt:
   topic: sensordata/1001
   broker: tcp://tailor.cloudmqtt.com:12458
-  username: qnrdyxpc
-  password: aIQMWi8FGqkh
+  username: a
+  password: a
   qos: 2
   clientid: 1001
